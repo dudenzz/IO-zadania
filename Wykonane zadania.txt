@@ -1,0 +1,29 @@
+Maciej Olejnik nr 125067
+
+[ ZADANIA C# ] 
+--Pula w¹tków--
+1                WYKONANE
+2                WYKONANE
+3                WYKONANE
+4                WYKONANE
+5                WYKONANE
+
+--Wzorzec programowy APM--
+6                WYKONANE
+7                WYKONANE
+8                WYKONANE
+
+--Wzorzec programowy EAP--
+9a, 9b, 9c, 10, 11 POMINIÊTE
+
+--Metody CPU-bound--
+12		WYKONANE
+13		WYKONANE
+14		WYKONANE
+15a		WYKONANE
+15b		WYKONANE
+15c		WYKONANE
+15d
+
+
+[ ZADANIA UML ] 
