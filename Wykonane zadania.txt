@@ -27,3 +27,5 @@ Maciej Olejnik nr 125067
 
 
 [ ZADANIA UML ] 
+Lab1
+Lab2
